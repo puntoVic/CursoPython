@@ -1,2 +1,2 @@
 # CursoPython
-Repositorio para guardar avances de cursod e Pyth
+Repositorio para guardar avances de cursos de python
